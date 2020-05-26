@@ -1,3 +1,2 @@
-# hello-world-2
-A new GitHub Test repository.
-This will be a new project in the coming days.
+# Tetris V1
+A simple repliocation of the popular Tetris game in HTML5, CSS3, and JavaScript.
